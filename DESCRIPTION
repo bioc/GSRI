@@ -3,7 +3,7 @@ Type: Package
 Title: Gene Set Regulation Index
 Version: 2.19.0
 Author: Julian Gehring, Kilian Bartholome, Clemens Kreutz, Jens Timmer
-Maintainer: Julian Gehring <julian.gehring@embl.de>
+Maintainer: Julian Gehring <jg-bioc@gmx.com>
 Imports: methods, graphics, stats, utils, genefilter, Biobase,
         GSEABase, les (>= 1.1.6)
 Depends: R (>= 2.14.2), fdrtool

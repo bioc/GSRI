@@ -1,9 +1,9 @@
 Package: GSRI
 Type: Package
 Title: Gene Set Regulation Index
-Version: 2.18.0
+Version: 2.18.1
 Author: Julian Gehring, Kilian Bartholome, Clemens Kreutz, Jens Timmer
-Maintainer: Julian Gehring <julian.gehring@embl.de>
+Maintainer: Julian Gehring <jg-bico@gmx.com>
 Imports: methods, graphics, stats, utils, genefilter, Biobase,
         GSEABase, les (>= 1.1.6)
 Depends: R (>= 2.14.2), fdrtool
@@ -14,6 +14,5 @@ Description: The GSRI package estimates the number of differentially
         Set Regulation Index (GSRI).
 License: GPL-3
 LazyLoad: yes
-URL: http://julian-gehring.github.com/GSRI/
 biocViews: Microarray, Transcription, DifferentialExpression,
     GeneSetEnrichment, GeneRegulation
